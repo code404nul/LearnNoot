@@ -11,4 +11,4 @@ write your list, to indicate a separator, then once you click on the button, you
 
 - [x] Can ask a question at the end of the questionnaire to improve memory
 - [x] You will be able to send and save your lists
-- [x]The program has a graphical interface  
+- [x] The program has a graphical interface  
